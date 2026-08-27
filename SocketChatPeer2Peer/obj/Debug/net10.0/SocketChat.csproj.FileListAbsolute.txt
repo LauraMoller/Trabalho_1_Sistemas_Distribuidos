@@ -1,0 +1,14 @@
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\bin\Debug\net10.0\SocketChat.exe
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\bin\Debug\net10.0\SocketChat.deps.json
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\bin\Debug\net10.0\SocketChat.runtimeconfig.json
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\bin\Debug\net10.0\SocketChat.dll
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\bin\Debug\net10.0\SocketChat.pdb
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.AssemblyInfoInputs.cache
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.AssemblyInfo.cs
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.csproj.CoreCompileInputs.cache
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.dll
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\refint\SocketChat.dll
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.pdb
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\SocketChat.genruntimeconfig.cache
+C:\Users\molle\Desktop\6_Semestre\Sistemas_Distribuidos\Trabalho_1_Socket_P2P\SocketChatPeer2Peer\obj\Debug\net10.0\ref\SocketChat.dll

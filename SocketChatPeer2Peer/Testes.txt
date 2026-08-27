@@ -1,0 +1,28 @@
+*** Peers
+Terminal 1 (alice): dotnet run -- --port 9001 --nick alice --peers 127.0.0.1:9002,127.0.0.1:9003
+Terminal 2 (bob):   dotnet run -- --port 9002 --nick bob   --peers 127.0.0.1:9001,127.0.0.1:9003
+Terminal 3 (carol): dotnet run -- --port 9003 --nick carol --peers 127.0.0.1:9001,127.0.0.1:9002
+
+-----------------------------------------------------------------------------------------------------------------
+
+*** Teste 1
+- Subir os três peers -> verificar se aparece a mensagem de oi para os outros peer
+
+*** Teste 2 
+- Subir só um dos peers e ficar esperando 10s. Depois subir os outros peers -> apesar de ter os outros dois peers na lista, não deve causar erro.
+
+*** Teste 3
+- Mandar uma mensagem e verificar se todos recebem.
+
+*** Teste 4
+- Testar mandar mensagem para ou peer existente e outro não existente de maneira privada.
+
+*** Teste 5
+- Listar os participantes
+
+*** Teste 6
+- Tirar um dos peers da conversa e fazer /list.
+- Subir de novo o peer e fazer /list.
+
+*** Teste 7
+- Desligar um peer brutamente sem quebrar a conexão dos demais.
